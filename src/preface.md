@@ -35,3 +35,7 @@ A modern browser (anything released in the last four years), a text editor, and 
 That last sentence will feel strange by the end of Chapter 2 and obvious by the end of Chapter 13. That's the goal.
 
 Let's start at the beginning.
+
+---
+
+*Thanks to Georgiy Treyvus, CloudStreet Product Manager, whose idea this was.*
