@@ -1,0 +1,30 @@
+/* The Zero Build Movement — Custom Theme */
+
+:root {
+    --sidebar-width: 280px;
+}
+
+/* Code blocks — slightly more breathing room */
+pre {
+    border-radius: 4px;
+}
+
+/* Callout boxes for "this actually runs" sections */
+.note {
+    border-left: 4px solid var(--quote-border);
+    padding: 0.5em 1em;
+    margin: 1em 0;
+}
+
+/* Chapter opening quotes */
+blockquote em {
+    font-style: normal;
+    opacity: 0.75;
+    font-size: 0.9em;
+}
+
+/* Inline filename references */
+code.filename {
+    font-weight: bold;
+    color: var(--inline-code-color);
+}
